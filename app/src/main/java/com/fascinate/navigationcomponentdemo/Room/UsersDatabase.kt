@@ -1,4 +1,4 @@
-package com.fascinate.navigationcomponentdemo
+package com.fascinate.navigationcomponentdemo.Room
 
 import android.content.Context
 import androidx.room.Database

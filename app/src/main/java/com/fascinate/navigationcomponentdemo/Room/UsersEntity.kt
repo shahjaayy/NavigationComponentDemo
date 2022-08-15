@@ -1,4 +1,4 @@
-package com.fascinate.navigationcomponentdemo
+package com.fascinate.navigationcomponentdemo.Room
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

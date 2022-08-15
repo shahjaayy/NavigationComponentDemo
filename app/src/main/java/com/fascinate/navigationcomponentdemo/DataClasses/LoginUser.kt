@@ -1,4 +1,4 @@
-package com.fascinate.navigationcomponentdemo
+package com.fascinate.navigationcomponentdemo.DataClasses
 
 data class LoginUser(
     val email: String,

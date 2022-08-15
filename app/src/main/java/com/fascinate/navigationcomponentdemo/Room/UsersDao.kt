@@ -1,9 +1,10 @@
-package com.fascinate.navigationcomponentdemo
+package com.fascinate.navigationcomponentdemo.Room
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
+import com.fascinate.navigationcomponentdemo.DataClasses.LoginUser
 
 @Dao
 interface UsersDao {

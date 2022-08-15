@@ -121,7 +121,7 @@
             android:fontFamily="sans-serif-light"
             android:text="Already have an acc? Click here to login"
             android:textColor="@color/white"
-            android:textSize="14sp"
+            android:textSize="12sp"
             app:layout_constraintEnd_toEndOf="@+id/edt_cnf_pass"
             app:layout_constraintTop_toBottomOf="@+id/edt_cnf_pass" />
 

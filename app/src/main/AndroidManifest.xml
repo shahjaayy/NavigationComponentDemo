@@ -4,6 +4,7 @@
     package="com.fascinate.navigationcomponentdemo">
 
     <application
+        android:name=".DI.MyRoomApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
