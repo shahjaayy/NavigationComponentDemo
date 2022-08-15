@@ -43,4 +43,5 @@
         android:name="com.fascinate.navigationcomponentdemo.Fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
+
 </navigation>
